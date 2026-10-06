@@ -2,7 +2,7 @@
 
 **iOS developer in Sydney** building calm, accessible, people-first apps with Swift and SwiftUI.
 
-I've spent over a decade shipping mobile apps, including banking apps used by millions (HSBC Australia and Commonwealth Bank), Transport for NSW's fault-management app for Sydney Trains staff, and a GPS trip-logging product. These days I design and build my own apps end to end, from UX and accessibility to App Store release.
+I've spent over a decade shipping mobile apps, including banking apps healthcare apps and a GPS trip-logging product. These days I design and build my own apps end to end, from UX and accessibility to App Store release.
 
 🌐 **Portfolio:** [shruezee.github.io](https://shruezee.github.io) · ✉️ **Email:** shruthianthropic@gmail.com · 📍 Sydney, Australia
 

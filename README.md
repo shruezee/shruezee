@@ -40,13 +40,13 @@ Five classic games with six cartoon heroes, made for kids aged 6–8. Play the c
 </table>
 
 ### [🕉️ Ashtotra](https://github.com/shruezee/Ashtotra-App)
-The 108 sacred names of Ganesha, Shiva, Lakshmi and Saraswati in six scripts (English, IAST, Devanagari, Telugu, Kannada, Gujarati), with a calm chant mode and a 108-bead mala. A 2019 UIKit app rebuilt from scratch in SwiftUI, with no ads.
+Daily Hindu prayers: morning-to-night routines, Hanuman Chalisa, Aditya Hrudayam, aarti and the 108 names, in six scripts with offline read-aloud and a 108-bead chant mode. A 2019 UIKit app rebuilt from scratch in SwiftUI, with no ads.
 
-`SwiftUI` `Observation` `Swift Testing` `VoiceOver speech language` `Dynamic Type`
+`SwiftUI` `Observation` `AVSpeechSynthesizer` `UserNotifications` `Swift Testing` `Dynamic Type`
 
 [Code](https://github.com/shruezee/Ashtotra-App) · [Website](https://shruezee.github.io/Ashtotra-App/) · App Store: in review
 
-<p><img src="https://shruezee.github.io/Ashtotra-App/images/03-chant-telugu.jpg" width="200" alt="Ashtotra chant mode in Telugu"> <img src="https://shruezee.github.io/Ashtotra-App/images/02-reader-devanagari.jpg" width="200" alt="Ashtotra names in Devanagari"></p>
+<p><img src="https://shruezee.github.io/Ashtotra-App/images/01-today.jpg" width="200" alt="Ashtotra Today screen"> <img src="https://shruezee.github.io/Ashtotra-App/images/02-hanuman-chalisa.jpg" width="200" alt="Hanuman Chalisa with Listen"></p>
 
 ## 🧭 How I build
 

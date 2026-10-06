@@ -39,6 +39,15 @@ Five classic games with six cartoon heroes, made for kids aged 6–8. Play the c
 </tr>
 </table>
 
+### [🕉️ Ashtotra](https://github.com/shruezee/Ashtotra-App)
+The 108 sacred names of Ganesha, Shiva, Lakshmi and Saraswati in six scripts (English, IAST, Devanagari, Telugu, Kannada, Gujarati), with a calm chant mode and a 108-bead mala. A 2019 UIKit app rebuilt from scratch in SwiftUI, with no ads.
+
+`SwiftUI` `Observation` `Swift Testing` `VoiceOver speech language` `Dynamic Type`
+
+[Code](https://github.com/shruezee/Ashtotra-App) · [Website](https://shruezee.github.io/Ashtotra-App/) · App Store: in review
+
+<p><img src="https://shruezee.github.io/Ashtotra-App/images/03-chant-telugu.jpg" width="200" alt="Ashtotra chant mode in Telugu"> <img src="https://shruezee.github.io/Ashtotra-App/images/02-reader-devanagari.jpg" width="200" alt="Ashtotra names in Devanagari"></p>
+
 ## 🧭 How I build
 
 - **Accessibility first.** Dynamic Type, VoiceOver, Voice Control, large tap targets, and never colour alone.
@@ -77,7 +86,6 @@ Five classic games with six cartoon heroes, made for kids aged 6–8. Play the c
 | [TableView-HeaderAnimation](https://github.com/shruezee/TableView-HeaderAnimation) | Collapsible table sections |
 | [MultipleImage-TableViewCell-CameraCapture](https://github.com/shruezee/MultipleImage-TableViewCell-CameraCapture) | Camera photos collected per table row, with safe cell reuse |
 | [MovieList](https://github.com/shruezee/MovieList) | JSON list and detail app with adaptive Auto Layout |
-| [Ashtotra](https://github.com/shruezee/Ashtotra-App) | Multilingual devotional reader with PDFKit |
 
 ---
 

@@ -2,7 +2,7 @@
 
 **iOS developer in Sydney** building calm, accessible, people-first apps with Swift and SwiftUI.
 
-I've spent over a decade shipping mobile apps, including banking apps healthcare apps and a GPS trip-logging product. These days I design and build my own apps end to end, from UX and accessibility to App Store release.
+I've spent over a decade shipping mobile apps, including banking apps healthcare apps and a GPS trip-logging product. These days I design and build my own apps end to end, from UX and accessibility to App Store release, and publish them as **Shruezee Studio**.
 
 🌐 **Portfolio:** [shruezee.github.io](https://shruezee.github.io) · ✉️ **Email:** shruthianthropic@gmail.com · 📍 Sydney, Australia
 
@@ -44,7 +44,7 @@ Daily Hindu prayers: morning-to-night routines, Hanuman Chalisa, Aditya Hrudayam
 
 `SwiftUI` `Observation` `AVSpeechSynthesizer` `UserNotifications` `Swift Testing` `Dynamic Type`
 
-[Code](https://github.com/shruezee/Ashtotra-App) · [Website](https://shruezee.github.io/Ashtotra-App/) · App Store: in review
+[App Store](https://apps.apple.com/au/app/ashtotra-daily-prayers/id1474584223) · [Code](https://github.com/shruezee/Ashtotra-App) · [Website](https://shruezee.github.io/Ashtotra-App/) · ✅ Live on the App Store · Android port in Kotlin + Jetpack Compose
 
 <p><img src="https://shruezee.github.io/Ashtotra-App/images/01-today.jpg" width="200" alt="Ashtotra Today screen"> <img src="https://shruezee.github.io/Ashtotra-App/images/02-hanuman-chalisa.jpg" width="200" alt="Hanuman Chalisa with Listen"></p>
 
